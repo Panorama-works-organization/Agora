@@ -1,11 +1,11 @@
 {
   "sections": {
-    "404": {
-      "type": "404",
+    "Default-File": {
+      "type": "Default-File",
       "settings": {}
     }
   },
   "order": [
-    "404"
+    "Default-File"
   ]
 }
