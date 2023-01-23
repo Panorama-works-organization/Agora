@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "Default-File": {
+      "type": "Default-File",
+      "settings": {}
+    }
+  },
+  "order": [
+    "Default-File"
+  ]
+}
